@@ -1,0 +1,16 @@
+.root{
+    position: relative;
+    padding: 40px;;
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+}
+.root:hover {
+    cursor: pointer;
+}
+.icon {
+    width: 25px;
+    position: absolute;
+    right: 50px;
+}
